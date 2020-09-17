@@ -2,7 +2,7 @@
 
 redux-rematch integration to after js
 
-also using @rematch/loading & redux-persist
+also using @rematch/loading & redux-persist & tailwind
 
 ### Download manually
 
